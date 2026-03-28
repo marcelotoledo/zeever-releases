@@ -1,11 +1,15 @@
 {
-  "version": "0.1.0",
-  "notes": "Zeever v0.1.0",
-  "pub_date": "2026-03-27T20:31:27Z",
+  "version": "0.2.0",
+  "notes": "Zeever v0.2.0",
+  "pub_date": "2026-03-28T21:48:54Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/marcelotoledo/zeever-releases/releases/download/v0.1.0/Zeever.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZWJzK2IwSmViVnNCMjlQTGwzTGhOcnFxaXlPT2V2bExYMXVUWUJPZnFSUFdWRm9KNXQwYUlqeFd0ZytDQlBEdXdlaGkyWDZWajZDelZ1d1g0ZFNETlgwZlE3amQzd0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NjQzMzc4CWZpbGU6WmVldmVyLmFwcC50YXIuZ3oKNmI1eXROa0UzZ1lJRWlpVmJGNFc3RCtCUVRuYm5GSlJqZFhLSVBXb0VWNDc3V2ZXeEk1WXNoQzJJTStJN2VkMi8vbDlSbzZLcmYyUW94M2lRcEdjQlE9PQo="
+      "url": "https://github.com/marcelotoledo/zeever-releases/releases/download/v0.2.0/Zeever_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZWJzK2IwSmViVmlvazZSTEdWbDM2c0JCWktZNnhjL21YMHpCN0VHMjZPRmxKMXlVdHBMN1QwYzU5emhBWlNKOVRkOEhyR0FoR2NrRnVlOGpKMW52RnE2b3N6NC9vYlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NjExNzQ4CWZpbGU6WmVldmVyLmFwcC50YXIuZ3oKYTBBNG1YUFVRT3o0WVcyeDdEa1BTQTNFR041ZnJIU1ExT1dhbE9zenVMMmJyNEY5S3l0MG5CbDlOTHdSLzNxa2pJU3NhTzRDQ2YxSE9jOW55YTBkQ0E9PQo="
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/marcelotoledo/zeever-releases/releases/download/v0.2.0/Zeever_x86_64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZWJzK2IwSmViVmhaSHk5ZkFiWUFhMS91NUVIcVcvUEdLb0UwNFdMWGg2VWYzYVVwL3hTNEd3SExPZ0FFRzJDazlkRWlUYURycWVrYm9IdVU5K0lXUmRyc2FhNjhHc3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzM0NDY0CWZpbGU6WmVldmVyLmFwcC50YXIuZ3oKcG91QmttWXJLSExLc0dRUUZ3TVBnL3JhUGY5Y0pGckt0MitGQ0lsVXJualphTGpIc0NWd3N6aXd6eXZ2b211UkZqN3BvYW1ONFRyekk2eEdmSkhORGc9PQo="
     }
   }
 }
