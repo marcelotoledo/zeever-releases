@@ -1,7 +1,7 @@
 {
   "version": "0.3.0",
   "notes": "Zeever v0.3.0",
-  "pub_date": "2026-03-29T20:31:40Z",
+  "pub_date": "2026-03-29T20:37:45Z",
   "platforms": {
     "darwin-aarch64": {
       "url": "https://github.com/marcelotoledo/zeever-releases/releases/download/v0.3.0/Zeever_aarch64.app.tar.gz",
